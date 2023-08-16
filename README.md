@@ -1,6 +1,6 @@
 # Calculadora 🔢
 
-<img align="right" height="430em" src=""/>
+<img align="right" height="400em" src="https://github.com/arieltroian/Projeto-Calculadora/blob/main/calculadora-preview.png"/>
 
 ### 💡Sobre o projeto:
 Estudo feito com o intuito de fixar os conhecimentos e <br/>
